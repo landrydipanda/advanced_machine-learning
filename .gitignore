@@ -4,7 +4,6 @@ yolov5/
 vid.mp4
 vid_2.mkv
 TRAIN_2.cache
-TRAIN_2/
 VALIDATION.cache
 droidcam/
 droidcam_latest.zip
