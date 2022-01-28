@@ -18,7 +18,7 @@ Using Yolov5 requires special preprocessing
 YoloV5 uses .txt files for image annotation (confer tutorial)
 We used the "convert_yolo_format.py" script for converting pascal voc xml annotations -> yolov5 .txt
 
-# Training
+## Training
 Fixed parameters:
   - evolving learning rate during training
 lr: 0.01
@@ -26,7 +26,7 @@ lrf:0.2
   - mosaic data increase
 mosaic: 1.0
 
-#Results
+## Results
   - result_train_1: 15 epochs, batch of 16
   mAP: 0.798
     -- without_mask: 0.793
